@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Financial Report Automation — generated outputs
+output/
+assets/
+*.xlsx
+*.csv
+*.png
